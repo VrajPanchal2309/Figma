@@ -18,6 +18,6 @@ Dashboard
 
 <img src="https://res.cloudinary.com/dny3l6mca/image/upload/v1685021282/image_2023-05-25_18-57-06_h3nat0.png" width="245" height="500" />
 
-<a href="https://www.figma.com/proto/DhAh3nexmReqitsLpwo4d0/MyFirstDesign?type=design&node-id=115-67&scaling=contain&page-id=0%3A1&starting-point-node-id=101%3A5">Published Link</a>
+<a href="https://www.figma.com/proto/DhAh3nexmReqitsLpwo4d0/MyFirstDesign">Published Link</a>
 
 <a href="https://www.figma.com/community/file/1242832199573438304">MyFirstDesign at Figma Community</a> 
